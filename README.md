@@ -3,6 +3,7 @@
 Wendy Lau Ah Wing*, Adrian Balajadia**, Alen Thomas*, and Maham Mir*
 
 *Department of Computer Science, University of Calgary, Alberta, Canada
+
 **Department of Biomedical Engineering, University of Calgary, Alberta, Canada
 
 Corresponding author: adrian.balajadia@ucalgary.ca (AB)
