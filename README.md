@@ -1,9 +1,11 @@
 # Improving-OCT-Interpretation-through-Retrieval-Guided-Diagnosis-and-LLM-Based-Reporting
 
-Wendy Lau Ah Wing1, Adrian Balajadia2*, Alen Thomas1, and Maham Mir1
+Wendy Lau Ah Wing*, Adrian Balajadia**, Alen Thomas*, and Maham Mir*
 
-1 Department of Computer Science, University of Calgary, Alberta, Canada
-2 Department of Biomedical Engineering, University of Calgary, Alberta, Canada
+*Department of Computer Science, University of Calgary, Alberta, Canada
+**Department of Biomedical Engineering, University of Calgary, Alberta, Canada
+
+Corresponding author: adrian.balajadia@ucalgary.ca (AB)
 
 
 
