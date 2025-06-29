@@ -6,7 +6,7 @@ Wendy Lau Ah Wing <sup>1</sup>, Adrian Balajadia<sup>2*</sup>, Alen Thomas<sup>1
 
 <sup>2</sup>Department of Biomedical Engineering, University of Calgary, Alberta, Canada
 
-<sup>*</sup Corresponding author: adrian.balajadia@ucalgary.ca (AB)
+<sup>*</sup>Corresponding author: adrian.balajadia@ucalgary.ca (AB)
 
 
 
