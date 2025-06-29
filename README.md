@@ -28,7 +28,7 @@ Note that the dataset being downloaded is originally from here: https://huggingf
 Use "Indicium_ResNet50_Training_and_Embedding.ipynb" to preprocess the data and run a training loop using the hyperparameters described in the paper. Additionally, this .ipynb file describes how embeddings were saved to a FAISS index and saved for later. After training/loading a model and creating/loading a FAISS index, you can also run a classification or query example. 
 
 ### Loading a Model Checkpoint or FAISS Index
-This repository also provides the model checkpoints that were used for analysis. Please see the "FAISS Indexes" and "Model Checkpoints" folder.  
+This repository also provides the model checkpoints that were used for analysis. Please see the "FAISS Indexes" folder and this Google Drive Folder link (https://drive.google.com/drive/folders/1V9_6T4Rk79KGKw5LvzGaW2hDsLVePO3b?usp=sharing) for the model checkpoints.  
 
 
 ### Generating a Clinical Report
