@@ -32,4 +32,4 @@ This repository also provides the model checkpoints that were used for analysis.
 
 
 ### Generating a Clinical Report
-Use "Indicium_ResNet50_RAG_Demo_and_Case_Evaluations.ipynb" to run a gradio demo to generate a clinical report. Note, you must load a model and FAISS index to use this notebook. 
+Use "Indicium_ResNet50_RAG_Demo_and_Case_Evaluations.ipynb" to run a gradio demo to generate a clinical report. Note, you must load a model and FAISS index to use this particular notebook. 
