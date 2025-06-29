@@ -1,4 +1,4 @@
-# Improving-OCT-Interpretation-through-Retrieval-Guided-Diagnosis-and-LLM-Based-Reporting
+# Improving Optical Coherence Tomography Interpretation With Retrieval-Guided Diagnosis and Text Generation
 
 Wendy Lau Ah Wing <sup>1</sup>, Adrian Balajadia<sup>2*</sup>, Alen Thomas<sup>1</sup>, and Maham Mir<sup>1</sup>
 
