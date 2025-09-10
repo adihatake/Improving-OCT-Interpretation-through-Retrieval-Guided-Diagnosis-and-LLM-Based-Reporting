@@ -8,7 +8,7 @@ Wendy Lau Ah Wing <sup>1</sup>, Adrian Balajadia<sup>2*</sup>, Alen Thomas<sup>1
 
 <sup>*</sup> Corresponding author: adrian.balajadia@ucalgary.ca (AB)
 
-## Original Publication: https://doi.org/10.48448/rng6-nk11
+Original Publication: https://doi.org/10.48448/rng6-nk11
 
 
 
